@@ -35,7 +35,7 @@ function fau_login_theme_style() {
   ";
   wp_add_inline_style( 'fau-login-style', $login_css );
 }
-add_action( 'login_enqueue_scripts', 'fau_login_theme_style' );
+// add_action( 'login_enqueue_scripts', 'fau_login_theme_style' );
 
 function fau_admin_bar_theme_style() {
 
