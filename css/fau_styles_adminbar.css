@@ -1,3 +1,6 @@
+body.wp-admin {
+  margin-top: -7px;
+}
 @media screen and (min-width: 782px) {
   html {
     padding-top: 46px!important;
@@ -44,7 +47,7 @@ padding: 0
 
 @media screen and (min-width: 782px) {
   #wpadminbar .quicklinks>ul>li>a {
-  padding:7px 12px
+  padding:3px 12px
   }
 }
 
