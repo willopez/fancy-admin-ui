@@ -47,7 +47,7 @@ display: none
 }
 
 #adminmenu .wp-submenu-head,#adminmenu a.menu-top {
-padding:7px 0
+padding:5px 0
 }
 
 .folded #adminmenu .wp-submenu-head,.folded #adminmenu a.menu-top {
@@ -64,10 +64,6 @@ color:#FFF;
 
 ul#adminmenu a.wp-has-current-submenu:after,ul#adminmenu>li.current>a.current:after,#adminmenu li.wp-has-submenu.wp-not-current-submenu.opensub:hover:after {
 display:none
-}
-
-#adminmenu li.menu-top {
-border-bottom:1px solid #e4e4e4
 }
 
 #adminmenu div.wp-menu-name {
